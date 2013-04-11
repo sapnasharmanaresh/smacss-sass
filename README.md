@@ -1,5 +1,5 @@
-Sass style sheets organised according to SMACSS principles
-==========================================================
+Sass style organised on SMACSS principles
+=========================================
 
 Sass styles organised vaguely in the SMACSS style. Essentially empty files and comments.
 
