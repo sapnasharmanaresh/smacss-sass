@@ -1,7 +1,5 @@
-Sass style organised on SMACSS principles
-=========================================
-
-Sass styles organised vaguely in the SMACSS style. Essentially empty files and comments.
+Sass styles organised on SMACSS principles
+==========================================
 
 I like modular CSS, and I like [Jonathan Snook's](https://twitter.com/@snookca) [Scalable and Modular CSS](http://smacss.com/) methodology. 
 
