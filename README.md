@@ -5,4 +5,4 @@ I like modular CSS, and I like [Jonathan Snook](https://twitter.com/@snookca)'s 
 
 I also like CSS preprocessors and [Sass](http://sass-lang.com/) in particular.
 
-These are preetty much empty files with comments, which may be of some use to someone, somewhere.
+These are pretty much empty files with comments, which may be of some use to someone, somewhere.
