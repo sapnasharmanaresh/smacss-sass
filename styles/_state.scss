@@ -13,16 +13,16 @@
 /////////
 
 a:link {
-  color: @link;
+  color: $link;
   text-decoration: none;
 }
 
 a:visited {
-  color: @visited;
+  color: $visited;
 }
 
 a:hover {
-  color: @link;
+  color: $link;
   text-decoration: underline;
 }
 
